@@ -1923,7 +1923,7 @@
       "pic": "https://e.im5i.com/2021/08/03/vJhMx.th.png",
       "keyDownPlay": false,
       "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "PC",
       "ads": "",
       "webUrl": "https://www.baidu.com/",
       "webOpen": true,
@@ -1980,6 +1980,9 @@
     {
       "name": "哆咪动漫(Web)",
       "pic": "https://e.im5i.com/2021/08/05/vIGMx.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
       "webUrl": "http://www.dmdm2020.com/",
       "webOpen": true,
@@ -1988,24 +1991,33 @@
     {
       "name": "樱花动漫(Web)",
       "pic": "https://e.im5i.com/2021/08/05/vIJCf.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
       "webUrl": "http://www.imomoe.la/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "91美剧(Web)",
+      "name": "低端影视(Web)",
       "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "https://91mjw.com/",
+      "webUrl": "https://ddrk.me/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "大师兄(Web)",
-      "pic": "https://e.im5i.com/2021/08/03/vJmBQ.md.jpg",
-      "ads": "",
-      "webUrl": "https://zz.ci/",
+      "name": "91美剧(Web)",
+      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://91mjw.com/",
       "webOpen": true,
       "click": true
     },
@@ -2020,40 +2032,30 @@
     {
       "name": "cokemv(Web)",
       "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
       "ads": "",
-      "webUrl": "https://cokemv.cn/",
+      "webUrl": "https://cokemv.me/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "flvweb(Web)",
       "pic": "https://e.im5i.com/2021/08/04/vlG07.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
       "ads": "",
       "webUrl": "http://www.flvweb.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "哆咪动漫(Web)",
-      "pic": "https://e.im5i.com/2021/08/04/vlW43.md.jpg",
-      "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "http://www.dmdm2020.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "真不卡(Web)",
+      "name": "不开(Web)",
       "pic": "https://e.im5i.com/2021/08/03/vJIjW.md.jpg",
       "ads": "weizhenwx,5588196_1622486217",
       "webUrl": "https://bukaivip.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "嘀哩影视(Web)",
-      "pic": "https://e.im5i.com/2021/08/03/vJ5Cf.md.jpg",
-      "ads": "",
-      "webUrl": "http://diliktv.com/",
       "webOpen": true,
       "click": true
     },
