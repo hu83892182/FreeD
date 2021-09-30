@@ -2041,21 +2041,46 @@
       "click": true
     },
     {
-      "name": "flvweb(Web)",
-      "pic": "https://e.im5i.com/2021/08/04/vlG07.md.jpg",
+      "name": "素白白(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "",
-      "webUrl": "http://www.flvweb.com/",
+      "webUrl": "https://www.subaibai.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "不开(Web)",
-      "pic": "https://e.im5i.com/2021/08/03/vJIjW.md.jpg",
-      "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "https://bukaivip.com/",
+      "name": "奈飞星(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://nfxhd.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "爱迪(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://aidi.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "NOVIP(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.novipnoad.com/",
       "webOpen": true,
       "click": true
     },
