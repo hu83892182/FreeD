@@ -1995,37 +1995,29 @@
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "http://www.imomoe.la/",
+      "webUrl": "http://www.yhdm06.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "低端影视(Web)",
-      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "name": "奇奇动漫(Web)",
+      "pic": "https://e.im5i.com/2021/08/05/vIJCf.md.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "https://ddrk.me/",
+      "webUrl": "https://m.qiqidongman.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "91美剧(Web)",
-      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "name": "风车动漫(Web)",
+      "pic": "https://e.im5i.com/2021/08/05/vIJCf.md.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "https://91mjw.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "1090(Web)",
-      "pic": "https://e.im5i.com/2021/08/04/vlb2p.md.jpg",
-      "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "http://1090ys2.com/",
+      "webUrl": "http://www.fengchedm.com/",
       "webOpen": true,
       "click": true
     },
@@ -2037,6 +2029,14 @@
       "userAgent": "PC",
       "ads": "",
       "webUrl": "https://cokemv.me/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "一只鱼(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJWUX.md.jpg",
+      "ads": "",
+      "webUrl": "https://www.4kyu.cc",
       "webOpen": true,
       "click": true
     },
@@ -2074,6 +2074,47 @@
       "click": true
     },
     {
+      "name": "独播库(Web)",
+      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://e.duboku.fun/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "低端影视(Web)",
+      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://ddrk.me/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "91美剧(Web)",
+      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://91mjw.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "1090(Web)",
+      "pic": "https://e.im5i.com/2021/08/04/vlb2p.md.jpg",
+      "ads": "weizhenwx,5588196_1622486217",
+      "webUrl": "http://1090ys2.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "NOVIP(Web)",
       "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
       "keyDownPlay": false,
@@ -2089,14 +2130,6 @@
       "pic": "https://e.im5i.com/2021/08/03/vJvw0.jpg",
       "ads": "onenews",
       "webUrl": "http://www.tvyb02.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "一只鱼(Web)",
-      "pic": "https://e.im5i.com/2021/08/03/vJWUX.md.jpg",
-      "ads": "",
-      "webUrl": "https://www.4kyu.cc",
       "webOpen": true,
       "click": true
     }
