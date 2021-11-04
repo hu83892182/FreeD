@@ -28,6 +28,12 @@
           "type": "app://customWeb"
         },
         {
+          "name": "NOVIP",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.novipnoad.com/",
+          "type": "app://customWeb"
+        },
+        {
           "name": "COKEMV影视",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
           "url": "https://cokemv.me/",
