@@ -35,7 +35,7 @@
     {
       "name": "future电视直播-仅IP6能用",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "webUrl": "https://iptv-org.github.io/iptv/languages/zho.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
