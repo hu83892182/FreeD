@@ -2022,6 +2022,17 @@
       "click": true
     },
     {
+      "name": "NOVIP(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.novipnoad.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "cokemv(Web)",
       "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
       "keyDownPlay": false,
@@ -2074,17 +2085,6 @@
       "click": true
     },
     {
-      "name": "独播库(Web)",
-      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "PC",
-      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "https://e.duboku.fun/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "低端影视(Web)",
       "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
       "keyDownPlay": false,
@@ -2096,40 +2096,29 @@
       "click": true
     },
     {
-      "name": "91美剧(Web)",
+      "name": "555电影(Web)",
       "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "https://91mjw.com/",
+      "webUrl": "https://www.555dy3.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "1090(Web)",
+      "name": "秋霞电影(Web)",
       "pic": "https://e.im5i.com/2021/08/04/vlb2p.md.jpg",
       "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "http://1090ys2.com/",
+      "webUrl": "https://www.7xiady.cc/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "NOVIP(Web)",
-      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "PC",
-      "ads": "",
-      "webUrl": "https://www.novipnoad.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "TV云播(Web)",
+      "name": "XijingTv(Web)",
       "pic": "https://e.im5i.com/2021/08/03/vJvw0.jpg",
       "ads": "onenews",
-      "webUrl": "http://www.tvyb02.com/",
+      "webUrl": "http://xijing.tv/movie/index",
       "webOpen": true,
       "click": true
     }
