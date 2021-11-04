@@ -1930,6 +1930,17 @@
       "click": true
     },
     {
+      "name": "央视直播(Web)",
+      "pic": "https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/23/1532329062487_804.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://tv.cctv.com/live/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "腾讯视频(Web)",
       "pic": "https://e.im5i.com/2021/08/03/vJ2M7.md.jpg",
       "keyDownPlay": false,
