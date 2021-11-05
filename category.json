@@ -22,12 +22,6 @@
           "type": "app://customWeb"
         },
         {
-          "name": "风车动漫",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
-          "url": "http://www.fengchedm.com/",
-          "type": "app://customWeb"
-        },
-        {
           "name": "NOVIP",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
           "url": "https://www.novipnoad.com/",
@@ -57,12 +51,6 @@
           "type": "app://customWeb"
         },
         {
-          "name": "独播库",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
-          "url": "https://e.duboku.fun/",
-          "type": "app://customWeb"
-        },
-        {
           "name": "低端影视",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
           "url": "https://ddrk.me/",
@@ -72,18 +60,6 @@
           "name": "555电影",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
           "url": "https://www.555dy3.com/",
-          "type": "app://customWeb"
-        },
-        {
-          "name": "秋霞电影",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
-          "url": "https://www.7xiady.cc/",
-          "type": "app://customWeb"
-        },
-        {
-          "name": "XijingTv",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
-          "url": "http://xijing.tv/movie/index",
           "type": "app://customWeb"
         }
       ]
