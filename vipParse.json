@@ -2,27 +2,39 @@
   "data": [
     {
       "id": 19,
-      "name": "无名小站高清解析-1",
+      "name": "ckmov解析",
       "ad": "no",
-      "url": "https://www.administratorw.com/admin.php?url="
+      "url": "https://www.ckmov.vip/api.php?url="
     },
     {
       "id": 19,
-      "name": "无名小站高清解析-2",
+      "name": "ck解析",
       "ad": "no",
-      "url": "https://www.administratorw.com/video.php?url="
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "id": 19,
-      "name": "vip无广告解析（全网）",
+      "name": "B站1",
       "ad": "no",
-      "url": "https://660e.com/?url="
+      "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
       "id": 19,
-      "name": "玩得嗨vip解析",
+      "name": "爱豆",
       "ad": "no",
-      "url": "http://tv.wandhi.com/go.html?url="
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "id": 19,
+      "name": "BL",
+      "ad": "no",
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "id": 19,
+      "name": "盘古",
+      "ad": "no",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
     }
   ]
 }
