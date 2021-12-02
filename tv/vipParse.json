@@ -1,52 +1,40 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "无名小站高清解析（推荐）",
+      "id": 19,
+      "name": "ckmov解析",
       "ad": "no",
-      "url": "https://www.administratorw.com/admin.php?url="
+      "url": "https://www.ckmov.vip/api.php?url="
     },
     {
-      "id": 1,
-      "name": "B站1（推荐）",
+      "id": 19,
+      "name": "ck解析",
+      "ad": "no",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "id": 19,
+      "name": "B站1",
       "ad": "no",
       "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
-      "id": 1,
-      "name": "CHok",
+      "id": 19,
+      "name": "爱豆",
       "ad": "no",
-      "url": "https://www.gai4.com/?url="
+      "url": "https://jx.aidouer.net/?url="
     },
     {
-      "id": 1,
-      "name": "思云",
+      "id": 19,
+      "name": "BL",
       "ad": "no",
-      "url": "https://jx.ap2p.cn/?url="
+      "url": "https://vip.bljiex.com/?v="
     },
     {
-      "id": 1,
-      "name": "淘电影",
-      "ad": "no",
-      "url": "https://jx.vodjx.top/vip/?url="
-    },
-    {
-      "id": 1,
-      "name": "听乐",
-      "ad": "no",
-      "url": "https://jx.dj6u.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "M3U8",
-      "ad": "no",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "盘古解析",
+      "id": 19,
+      "name": "盘古",
       "ad": "no",
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
+    }
   ]
 }
