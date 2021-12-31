@@ -181,7 +181,7 @@
       "ads": "",
       "webUrl": "https://www.kyikan.cc/",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.kyikan.cc/index.php?m=vod-search&wd={kw}",
         "nav_url": "https://www.kyikan.cc/vodtypehtml/navCate/index-navPage.html",
@@ -564,7 +564,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.myui-panel_bd.clearfix",
+            "mainCss": "ul.stui-content__playlist.clearfix",
             "mainIndex": 0
           },
           "nav": {
@@ -579,7 +579,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainCss": "ul.stui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -690,7 +690,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.mrb > ul",
+            "mainCss": "div.post_ajax_tm",
             "mainListIndex": 0,
             "nameAttr": "alt",
             "nameCss": "img",
@@ -989,29 +989,16 @@
         "cateHtml": {},
         "html": {
           "episodes": {
-            "hasUrlPrefix": true,
+            "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "a",
+            "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.paly_list_btn",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
+            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
+            "mainIndex": 0
           },
           "nav": {
             "isKWInUrl": false,
@@ -1020,18 +1007,18 @@
             "descCss": "div > span",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
+            "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "img",
+            "imgCss": "data-original",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.mrb > ul",
+            "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
+            "nameAttr": "title",
+            "nameCss": "a",
             "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
@@ -1064,6 +1051,101 @@
             "urlIndex": 0
           },
           "video": {}
+        }
+      }
+    },
+    {
+      "name": "555电影(规则)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.555dy6.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
+        "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
+        "web_name": "555电影",
+        "navHtml": {
+          "name": [
+            "电影",
+            "每日推荐",
+            "电视剧",
+            "热剧推荐",
+            "动漫",
+            "热漫推荐",
+            "综艺",
+            "热门综艺"
+          ],
+          "cate": [
+            "1",
+            "79",
+            "2",
+            "88",
+            "4",
+            "94",
+            "3",
+            "90"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.myui-content__list.playlist.clearfix",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.hl-one-list",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
         }
       }
     },
