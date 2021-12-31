@@ -976,13 +976,13 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "li",
+            "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.tab-pane.fade.in.clearfix active",
+            "mainCss": "div.myui-panel-box.clearfix",
             "mainIndex": 0
           },
           "nav": {
