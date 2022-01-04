@@ -315,7 +315,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://meijure.com/vodsearch/-------------.html?wd={kw}&submit=",
+        "search_url": "https://meijure.com/vodsearch/{kw}----------navPage---.html",
         "nav_url": "https://meijure.com/vodtype/navCate-navPage.html",
         "cate_url": "",
         "web_name": "美剧热",
@@ -410,7 +410,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.myui-panel-box.clearfix > ul",
+            "mainCss": "div.myui-panel_bd.col-pd.clearfix > ul",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
