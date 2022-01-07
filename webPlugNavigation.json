@@ -849,7 +849,7 @@
             "listItemCss": "a",
             "listItemIndex": 0,
             "mainCss": "div.paly_list_btn",
-            "mainIndex": 0,
+            "mainIndex": 0
           },
           "nav": {
             "isKWInUrl": false,
