@@ -850,17 +850,6 @@
             "listItemIndex": 0,
             "mainCss": "div.paly_list_btn",
             "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
           },
           "nav": {
             "isKWInUrl": false,
