@@ -2,39 +2,39 @@
   "data": [
     {
       "id": 19,
-      "name": "ckmov解析",
-      "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "id": 19,
-      "name": "ck解析",
-      "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "id": 19,
-      "name": "B站1",
+      "name": "JF-接口1",
       "ad": "no",
       "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
       "id": 19,
-      "name": "爱豆",
+      "name": "JF-接口2",
+      "ad": "no",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "id": 19,
+      "name": "JF-接口3",
+      "ad": "no",
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "id": 19,
+      "name": "JF-接口4",
+      "ad": "no",
+      "url": "https://jx.blbo.cc:4433/?url="
+    },
+    {
+      "id": 19,
+      "name": "JF-接口5",
+      "ad": "no",
+      "url": "https://jx.blbo.cc:4433/?url="
+    },
+    {
+      "id": 19,
+      "name": "JF-接口6",
       "ad": "no",
       "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "id": 19,
-      "name": "BL",
-      "ad": "no",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "id": 19,
-      "name": "盘古",
-      "ad": "no",
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
     }
   ]
 }
