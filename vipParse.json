@@ -2,39 +2,39 @@
   "data": [
     {
       "id": 19,
-      "name": "JF-接口1",
+      "name": "JF-B站",
       "ad": "no",
-      "url": "https://vip.parwix.com:4433/player/?url="
+      "url": "https://z1.m1907.cn/?jx="
     },
     {
       "id": 19,
-      "name": "JF-接口2",
+      "name": "JF-OK解析",
       "ad": "no",
       "url": "https://okjx.cc/?url="
     },
     {
       "id": 19,
-      "name": "JF-接口3",
+      "name": "JF-乐多",
       "ad": "no",
-      "url": "https://www.yemu.xyz/?url="
+      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
     },
     {
       "id": 19,
-      "name": "JF-接口4",
-      "ad": "no",
-      "url": "https://jx.blbo.cc:4433/?url="
-    },
-    {
-      "id": 19,
-      "name": "JF-接口5",
+      "name": "JF-人人",
       "ad": "no",
       "url": "https://jx.blbo.cc:4433/?url="
     },
     {
       "id": 19,
-      "name": "JF-接口6",
+      "name": "JF-爱豆",
       "ad": "no",
       "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "id": 19,
+      "name": "JF-ckmov",
+      "ad": "no",
+      "url": "https://www.ckmov.com/?url="
     }
   ]
 }
