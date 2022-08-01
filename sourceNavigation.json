@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "future电视直播",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://m1.im5i.com/2022/08/01/UCI2Va.jpg",
       "webUrl": "https://iptv-org.github.io/iptv/languages/zho.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -17,40 +17,8 @@
       "webPlus": {}
     },
     {
-      "name": "bilibili-txt",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/bilibili.txt",
-      "type": "txt",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "live-txt",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/live.txt",
-      "type": "txt",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
       "name": "Live",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://m1.im5i.com/2022/08/01/UCI7QT.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/live.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -66,7 +34,7 @@
     },
     {
       "name": "Huya",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://m1.im5i.com/2022/08/01/UCISDA.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/huya.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -82,7 +50,7 @@
     },
     {
       "name": "Douyu",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://m1.im5i.com/2022/08/01/UCIfa0.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/douyu.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -98,7 +66,7 @@
     },
     {
       "name": "Bibili",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://m1.im5i.com/2022/08/01/UCIekS.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/bilibili.m3u",
       "type": "m3u",
       "subTitle": "",
