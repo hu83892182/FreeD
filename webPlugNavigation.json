@@ -128,88 +128,67 @@
             "20"
           ],
           "page": "1"
+                },
+                "html": {
+                    "episodes": {
+                        "hasUrlPrefix": false,
+                        "isListItemAttr": true,
+                        "listCss": "div.module-list.sort-list.tab-list.his-tab-list",
+                        "isMultiList": true,
+                        "listCssMulti": "a",
+                        "listItemAttr": "href",
+                        "listItemCss": "a",
+                        "listItemIndex": 0,
+                        "mainCss": "div.main > div.content",
+                        "mainIndex": 0
+                    },
+                    "nav": {
+                        "descAttr": "",
+                        "descCss": "div.module-item-note",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "data-original",
+                        "imgCss": "div.module-item-pic > img",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "div.module-items.module-poster-items-base",
+                        "mainListIndex": 0,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "a",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    },
+                    "search": {
+                        "descAttr": "",
+                        "descCss": "span.hl-lc-1.remarks",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "data-original",
+                        "imgCss": "a",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "ul.hl-one-list",
+                        "mainListIndex": 0,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "li",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    }
+                }
+            }
         },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "div > ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.tab-content.myui-panel_bd",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "div > span",
-            "descIndex": 0,
-            "hasImgUrlPrefix": false,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.myui-panel_bd.col-pd.clearfix > ul",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
-        }
-      }
-    },
     {
       "name": "奇侠高清",
       "pic": "https://m2.im5i.com/2022/01/07/Uhi45K.md.jpg",
@@ -432,7 +411,7 @@
             "webPlus": {
                 "search_url": "https://www.555kyy.com/index.php/vod/search.html?wd={kw}",
                 "nav_url": "https://www.555kyy.com/vodshow/navCate--------navPage---.html",
-                "web_name": "大师兄影视",
+                "web_name": "555电影",
                 "search": false,
                 "navHtml": {
                     "name": [
