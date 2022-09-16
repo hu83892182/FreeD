@@ -18,12 +18,14 @@
                         "电影",
                         "电视剧",
                         "动漫",
+                        "音乐",
                         "综艺"
                     ],
                     "cate": [
                         "1",
                         "2",
                         "4",
+                        "6",
                         "3"
                     ],
                     "page": "1"
@@ -89,20 +91,20 @@
             }
         },
     {
-      "name": "美剧热(规则)",
+      "name": "555NF(专属)",
       "pic": "https://m2.im5i.com/2022/01/07/UhiNlv.md.jpg",
       "type": "webPlug",
       "subTitle": "清晰1080P/4K最高60帧",
       "subMobileTitle": "清晰1080P/4K最高60帧",
       "ads": "weizhenwx",
-      "webUrl": "https://meijure.com/",
+      "webUrl": "https://555dy1.com",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://meijure.com/vodsearch/{kw}----------navPage---.html",
-        "nav_url": "https://meijure.com/vodtype/navCate-navPage.html",
+        "search_url": "https://555dy1.com/vodsearch/-------------.html?wd={kw}",
+        "nav_url": "https://555dy1.com/label/navCate/page/navPage.html",
         "cate_url": "",
-        "web_name": "美剧热",
+        "web_name": "555NF(专属)",
         "kw": "wd",
         "params": [
           {
@@ -112,14 +114,14 @@
         ],
         "navHtml": {
            "name": [
-            "电影",
+            "奈飞",
             "连续剧",
             "综艺",
             "动漫",
             "体育"
           ],
           "cate": [
-            "1",
+            "netflix",
             "2",
             "3",
             "4",
@@ -208,99 +210,6 @@
         }
       }
     },
-   {
-      "name": "橘子TV",
-      "pic": "https://m2.im5i.com/2022/01/07/UhiAwC.md.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.juztv.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.juztv.com/vodsearch/-------------/?wd={kw}",
-        "nav_url": "https://www.juztv.com/vodtype/navCate-navPage/",
-        "web_name": "橘子TV",
-        "navHtml": {
-          "name": [
-            "电影",
-            "电视剧",
-            "综艺",
-            "动漫",
-            "国产剧",
-            "韩剧",
-            "欧美剧"
-          ],
-          "cate": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "13",
-            "15",
-            "16"
-          ],
-          "page": "1"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "ul.stui-content__playlist.clearfix",
-            "mainIndex": 0
-          },
-          "nav": {
-            "descAttr": "",
-            "descCss": "span.pic-tag.pic-tag-top",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "descAttr": "",
-            "descCss": "div > span",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.stui-pannel_bd.clearfix > ul",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          }
-        }
-      }
-    },
     {
       "name": "奇侠高清",
       "pic": "https://m2.im5i.com/2022/01/07/Uhi45K.md.jpg",
@@ -311,7 +220,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "click": true,
       "webPlus": {
-        "search_url": "https://www.7xiady.cc/search/{kw}-------------/",
+        "search_url": "https://www.7xiady.cc/index.php/search/{kw}-------------/",
         "nav_url": "https://www.7xiady.cc/type/navCate-navPage/",
         "cate_url": "https://www.7xiady.cc/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "完美看看影视",
@@ -530,12 +439,14 @@
                         "电影",
                         "电视剧",
                         "动漫",
+                        "FL",
                         "综艺"
                     ],
                     "cate": [
                         "1",
                         "2",
                         "4",
+                        "124",
                         "3"
                     ],
                     "page": "1"
@@ -601,30 +512,36 @@
             }
         },
     {
-      "name": "天空影视(规则)",
+      "name": "素白白(规则)",
       "pic": "https://m2.im5i.com/2022/01/07/Uhimca.md.jpg",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.tkys.tv/",
+      "webUrl": "https://www.subaibaiys.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "",
-        "nav_url": "https://www.tkys.tv/vodtype/navCate-navPage.html",
-        "web_name": "天空影视",
+        "nav_url": "https://www.subaibaiys.com/navCate/page/navPage",
+        "web_name": "素白白",
 		"search":false,
         "navHtml": {
           "name": [
             "电影",
             "电视剧",
-            "动漫",
-            "综艺"
+            "高分电影",
+            "香港经典",
+            "欧美剧",
+            "动漫剧",
+            "动漫电影"
           ],
           "cate": [
-            "1",
-            "2",
-            "4",
-            "3"
+            "new-movie",
+            "tv-drama",
+            "high-movie",
+            "hongkong-movie",
+            "american-drama",
+            "anime-drama",
+            "cartoon-movie"
           ],
           "page": "1"
         },
@@ -697,8 +614,8 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://dsxys.com/sb/ke7nhZe3c1{kw}-.html",
-        "nav_url": "https://dsxys.com/type/navCate-navPage.html",
+        "search_url": "https://dsxys.com/sb/ke7nhZe3c1-.html?wd={kw}",
+        "nav_url": "https://dsxys.com/vodshow/navCate--------navPage---.html",
         "web_name": "大师兄",
 		"search":false,
         "navHtml": {
