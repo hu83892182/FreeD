@@ -212,21 +212,27 @@
       "name": "siwa",
       "url": "https://siwazyw.cc/api.php/provide/vod/at/xml/",
       "cate": "亚洲无码,1&&亚洲有码,2&&欧美情色,3&&中文字幕,4&&动漫卡通,5&&美女主播,20&&人妻熟女,21&&强奸乱伦,22&&日韩伦理,23&&国产自拍,24&&精选口爆,37&&同性同志,38&&重口味,39&&韩国主播,46&&JAV4K,47&&91大神,48&&AV解说,49&&国外热门资源,50&&欧美精品,52&&Pornhub亚洲精品,53",
-      "click": true,
+      "click":true,
+      "type":"xml",
+      "detailUrl":""
     },
     {
       "id": 1,
       "name": "smt999",
       "url": "https://smt999.cc/api.php/provide/vod/at/xml/",
       "cate": "无码,22&&中文,23&&欧美,24&&H动画,26&&国产,30",
-      "click": true,
+      "click":true,
+      "type":"xml",
+      "detailUrl":""
     },
     {
       "id": 1,
       "name": "xiuse",
       "url": "https://api.xiuseapi.com/api.php/provide/vod/at/xml/",
       "cate": "国产精品,1&&中文字幕,2&&欧美精品,3&&自拍偷拍,4&&日韩无码,6&&日韩有码,7&&动漫精品,8&&三级伦理,9&&人妻系列,10&&SM重口味,11&&小视频,20&&潮吹喷射,21&&高清专区,39&&高清华语,40&&精品资源,41",
-      "click": true,
+      "click":true,
+      "type":"xml",
+      "detailUrl":""
     }
   ]
 }
