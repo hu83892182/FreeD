@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "name": "常用",
+      "data": [
+        {
+          "name": "更新日志",
+          "type": "app://updateInfo",
+          "pic": "",
+          "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html"
+        },
+        {
+          "name": "小说阅读",
+          "type": "app://book",
+          "pic": "",
+          "url": "http://www.baidu.com"
+        },
+        {
+          "name": "口令查券",
+          "type": "app://chaquan",
+          "pic": "",
+          "url": "http://www.baidu.com"
+        },
+        {
+          "name": "自定义网址",
+          "type": "app://custom",
+          "pic": "",
+          "url": "http://www.baidu.com"
+        },
+        {
+          "name": "我的收藏",
+          "type": "app://collect",
+          "pic": "",
+          "url": "http://www.baidu.com"
+        },
+        {
+          "name": "历史记录",
+          "type": "app://history",
+          "pic": "",
+          "url": "http://www.baidu.com"
+        },
+        {
+          "name": "樱花动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://www.yhdm06.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "哆咪动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://www.dmdm2020.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "奇奇动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://m.qiqidongman.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "风车动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://www.fengchedm.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "NOVIP",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.novipnoad.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "COKEMV影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://cokemv.me/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "素白白",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.subaibai.com/",
+          "type": "app://customWeb"
+        },{
+          "name": "奈飞星影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://nfxhd.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "爱迪影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://aidi.tv/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "独播库",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://e.duboku.fun/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "低端影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://ddrk.me/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "555电影",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.555dy3.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "秋霞电影",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.7xiady.cc/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "XijingTv",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://xijing.tv/movie/index",
+          "type": "app://customWeb"
+        }
+      ]
+    },
+    {
+      "name": "在线影视",
+      "data": [
+        {
+          "name": "虎牙一起看",
+          "type": "app://customWeb",
+          "pic": "https://www.huya.com/favicon.ico",
+          "url": "https://www.huya.com/g/seeTogether"
+        },
+        {
+          "name": "斗鱼一起看",
+          "type": "app://customWeb",
+          "pic": "https://www.douyu.com/favicon.ico",
+          "url": "https://m.douyu.com/list/room?type=yqk"
+        },
+        {
+          "name": "爱奇艺一起看",
+          "type": "app://customWeb",
+          "pic": "https://www.iqiyi.com/favicon.ico",
+          "url": "https://m-live.iqiyi.com/cate/minishow&&&ad-banner"
+        },
+        {
+          "name": "网易一起看",
+          "type": "app://customWeb",
+          "pic": "https://www.asdf.com/favicon.ico",
+          "url": "https://h5.cc.163.com/g/65004/&&&ad-banner"
+        },
+        {
+          "name": "企鹅电竞",
+          "type": "app://x5WebParse",
+          "pic": "https://egame.qq.com/favicon.ico",
+          "url": "https://cdn.egame.qq.com/pgg-play/module/livelist.html?layoutid=2000000110"
+        },
+        {
+          "name": "樱花动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://www.yhdm06.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "哆咪动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://www.dmdm2020.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "奇奇动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://m.qiqidongman.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "风车动漫",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://www.fengchedm.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "NOVIP",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.novipnoad.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "COKEMV影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://cokemv.me/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "素白白",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.subaibai.com/",
+          "type": "app://customWeb"
+        },{
+          "name": "奈飞星影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://nfxhd.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "爱迪影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://aidi.tv/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "独播库",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://e.duboku.fun/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "低端影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://ddrk.me/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "555电影",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.555dy3.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "秋霞电影",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://www.7xiady.cc/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "XijingTv",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "http://xijing.tv/movie/index",
+          "type": "app://customWeb"
+        }
+      ]
+    },
+    {
+      "name": "在线直播",
+      "data": [
+        {
+          "name": "虎牙直播",
+          "type": "app://customWeb",
+          "pic": "https://www.huya.com/favicon.ico",
+          "url": "https://www.huya.com/"
+        },
+        {
+          "name": "斗鱼直播",
+          "type": "app://customWeb",
+          "pic": "https://www.douyu.com/favicon.ico",
+          "url": "https://www.douyu.com/"
+        },
+        {
+          "name": "哔哩哔哩",
+          "type": "app://customWeb",
+          "pic": "https://live.bilibili.com/favicon.ico",
+          "url": "https://live.bilibili.com/"
+        },
+        {
+          "name": "YY直播",
+          "type": "app://customWeb",
+          "pic": "https://www.yy.com/favicon.ico",
+          "url": "https://www.yy.com/"
+        },
+        {
+          "name": "直播频道1",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://iptv-org.github.io/iptv/languages/zho.m3u"
+        },
+        {
+          "name": "直播频道2",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
+        }
+      ]
+    },
+    {
+      "name": "音乐读物",
+      "data": [
+        {
+          "name": "疯狂音乐搜索",
+          "type": "app://customWeb",
+          "pic": "http://music.ifkdy.com/favicon.ico",
+          "url": "http://music.ifkdy.com/"
+        },
+        {
+          "name": "豆瓣FM",
+          "type": "app://customWeb",
+          "pic": "https://music.douban.com/favicon.ico",
+          "url": "https://douban.fm/"
+        }
+      ]
+    }
+  ]
+}

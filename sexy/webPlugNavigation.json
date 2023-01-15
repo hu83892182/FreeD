@@ -1,0 +1,803 @@
+{
+    "data":[
+        {
+            "name":"久久看片(规则)",
+            "pic":"https://m2.im5i.com/2022/01/07/UhivjY.md.jpg",
+            "type": "webPlug",
+            "ads": "",
+            "webUrl": "https://www.jiujiukanpian.com",
+            "webOpen": false,
+            "click": true,
+            "webPlus": {
+                "search_url": "https://www.jiujiukanpian.com/search?wd={kw}",
+                "nav_url": "https://www.jiujiukanpian.com/type/navCate/navPage.html",
+                "web_name": "久久看片",
+                "search": true,
+                "navHtml": {
+                    "name": [
+                        "电影",
+                        "电视剧",
+                        "动漫",
+                        "音乐",
+                        "综艺"
+                    ],
+                    "cate": [
+                        "1",
+                        "2",
+                        "4",
+                        "6",
+                        "3"
+                    ],
+                    "page": "1"
+                },
+                "html": {
+                    "episodes": {
+                        "hasUrlPrefix": false,
+                        "isListItemAttr": true,
+                        "listCss": "div.panel.panel-default.resource-list",
+                        "isMultiList": true,
+                        "listCssMulti": "ul > li",
+                        "listItemAttr": "href",
+                        "listItemCss": "a",
+                        "listItemIndex": 0,
+                        "mainCss": "div.row",
+                        "mainIndex": 0
+                    },
+                    "nav": {
+                        "descAttr": "",
+                        "descCss": "button.hdtag",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "src",
+                        "imgCss": "img",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "div.row",
+                        "mainListIndex": 1,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "div.col-md-1-5 > div.movie-item",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    },
+                    "search": {
+                        "descAttr": "",
+                        "descCss": "button.hdtag",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "src",
+                        "imgCss": "img",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "div.row",
+                        "mainListIndex": 1,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "div.col-md-1-5 > div.movie-item",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    }
+                }
+            }
+        },
+    {
+      "name": "奇侠高清",
+      "pic": "https://e.im5i.com/2021/08/03/vJ3ys.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清有筛选",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.7xiady.cc/index.php/search/{kw}-------------/",
+        "nav_url": "https://www.7xiady.cc/type/navCate-navPage/",
+        "cate_url": "https://www.7xiady.cc/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "完美看看影视",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "电影",
+            "连续剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "dianying",
+            "lianxuju",
+            "dongman",
+            "zongyi"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {
+          "isCate": true,
+          "isYear": true,
+          "isArea": true,
+          "cate": "全部,&&动作,动作&&剧情,剧情&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&奇幻,奇幻&&历史,历史&&犯罪,犯罪&&动画,动画&&丧尸,丧尸&&幻想,幻想&&战争,战争&&暴力,暴力&&古装,古装&&武侠,武侠&&灾难,灾难",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul > li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.stui-pannel.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "ul.stui-vodlist.clearfix > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "div > span",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+        {
+            "name":"动漫巴士(规则)",
+            "pic":"https://e.im5i.com/2021/08/03/vapup.md.jpg",
+            "type": "webPlug",
+            "ads": "",
+            "webUrl": "https://dm84.vip",
+            "webOpen": false,
+            "click": true,
+            "webPlus": {
+                "search_url": "https://dm84.vip/s----------.html?wd={kw}",
+                "nav_url": "https://dm84.vip/list-navCate-navPage.html",
+                "web_name": "动漫巴士",
+                "search": true,
+                "navHtml": {
+                    "name": [
+                        "国产动漫",
+                        "日本动漫",
+                        "欧美动漫",
+                        "动漫电影"
+                    ],
+                    "cate": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "page": "1"
+                },
+                "html": {
+                    "episodes": {
+                        "hasUrlPrefix": false,
+                        "isListItemAttr": true,
+                        "listCss": "ul.play_list",
+                        "isMultiList": true,
+                        "listCssMulti": "li",
+                        "listItemAttr": "href",
+                        "listItemCss": "a",
+                        "listItemIndex": 0,
+                        "mainCss": "div.tab_content",
+                        "mainIndex": 0
+                    },
+                    "nav": {
+                        "descAttr": "",
+                        "descCss": "span.desc",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "data-bg",
+                        "imgCss": "a",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "ul.v_list",
+                        "mainListIndex": 0,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "li",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    },
+                    "search": {
+                        "descAttr": "",
+                        "descCss": "span.desc",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "data-bg",
+                        "imgCss": "a",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "ul.v_list",
+                        "mainListIndex": 0,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "li",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    }
+                }
+            }
+        },
+    {
+      "name": "555电影(规则)",
+      "pic": "https://m2.im5i.com/2022/01/07/Uhi3nd.md.jpg",
+            "type": "webPlug",
+            "ads": "",
+            "webUrl": "https://www.555kyy.com/",
+            "webOpen": false,
+            "click": true,
+            "webPlus": {
+                "search_url": "https://www.555kyy.com/index.php/vod/search.html?wd={kw}",
+                "nav_url": "https://www.555kyy.com/vodshow/navCate--------navPage---.html",
+                "web_name": "555电影",
+                "search": false,
+                "navHtml": {
+                    "name": [
+                        "电影",
+                        "电视剧",
+                        "动漫",
+                        "FL",
+                        "综艺"
+                    ],
+                    "cate": [
+                        "1",
+                        "2",
+                        "4",
+                        "124",
+                        "3"
+                    ],
+                    "page": "1"
+                },
+                "html": {
+                    "episodes": {
+                        "hasUrlPrefix": false,
+                        "isListItemAttr": true,
+                        "listCss": "div.module-list.sort-list.tab-list.his-tab-list",
+                        "isMultiList": true,
+                        "listCssMulti": "a",
+                        "listItemAttr": "href",
+                        "listItemCss": "a",
+                        "listItemIndex": 0,
+                        "mainCss": "div.main > div.content",
+                        "mainIndex": 0
+                    },
+                    "nav": {
+                        "descAttr": "",
+                        "descCss": "div.module-item-note",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "data-original",
+                        "imgCss": "div.module-item-pic > img",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "div.module-items.module-poster-items-base",
+                        "mainListIndex": 0,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "a",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    },
+                    "search": {
+                        "descAttr": "",
+                        "descCss": "span.hl-lc-1.remarks",
+                        "descIndex": 0,
+                        "hasUrlPrefix": false,
+                        "imgAttr": "data-original",
+                        "imgCss": "a",
+                        "imgIndex": 0,
+                        "isDescAttr": false,
+                        "isImgAttr": true,
+                        "isNameAttr": true,
+                        "isUrlAttr": true,
+                        "mainCss": "ul.hl-one-list",
+                        "mainListIndex": 0,
+                        "nameAttr": "title",
+                        "nameCss": "a",
+                        "nameIndex": 0,
+                        "searchListCss": "li",
+                        "urlAttr": "href",
+                        "urlCss": "a",
+                        "urlIndex": 0
+                    }
+                }
+            }
+        },
+    {
+      "name": "大师兄(规则)",
+      "pic": "https://m2.im5i.com/2022/01/07/UhYV9Y.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://dsxys.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://dsxys.com/sb/ke7nhZe3c1-.html?wd={kw}",
+        "nav_url": "https://dsxys.com/vodshow/navCate--------navPage---.html",
+        "web_name": "大师兄",
+		"search":false,
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "div.tab-pane.fade.in.clearfix",
+            "isMultiList": true,
+            "listCssMulti": "ul > li",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.tab-content.myui-panel_bd",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.hl-one-list",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "厂长资源(规则)",
+      "pic": "https://e.im5i.com/2021/08/03/vJbI3.jpg",
+      "type": "webPlug",
+      "subTitle": "",
+      "subMobileTitle": "",
+      "ads": "",
+      "webUrl": "https://www.qianoo.cn/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.qianoo.cn/?s={kw}",
+        "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
+        "cate_url": "",
+        "web_name": "厂长资源",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "最新电影",
+            "电视剧",
+            "国产剧",
+            "美剧",
+            "韩漫",
+            "番剧",
+            "动漫"
+          ],
+          "cate": [
+            "zuixindianying",
+            "dsj",
+            "gcj",
+            "meijutt",
+            "hanjutv",
+            "fanju",
+            "dm"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": true,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "a",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.paly_list_btn",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "div > span",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.bt_img.mi_ne_kd.mrb > ul",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "div > span",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.bt_img.mi_ne_kd.search_list > ul",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+    {
+      "name": "百度搜索(Web)",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01rgSnol2C4PZWpj0zL_!!913168420.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.baidu.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "央视直播(Web)",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN016MnVLV2C4PZQRzmnB_!!913168420.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://tv.cctv.com/live/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "腾讯视频(Web)",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Tj0Xkv2C4PZVNK1Z4_!!913168420.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+
+      "ads": "",
+      "webUrl": "https://v.qq.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "iqiyi(Web)",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01VEgwOb2C4PZZTpZsn_!!913168420.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+
+      "ads": "",
+      "webUrl": "https://www.iqiyi.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "优酷(Web)",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01AReH5K2C4PZaDNenV_!!913168420.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+
+      "ads": "",
+      "webUrl": "https://www.youku.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "哔哩哔哩(Web)",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+
+      "ads": "",
+      "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "樱花动漫(Web)",
+      "pic": "https://m2.im5i.com/2022/01/07/UhivjY.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "http://www.yhdm06.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "奇奇动漫(Web)",
+      "pic": "https://m2.im5i.com/2022/01/07/UhioXG.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://m.qiqidongman.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "风车动漫(Web)",
+      "pic": "https://e.im5i.com/2021/08/05/vIJCf.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "http://www.fengchedm.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "NOVIP(Web)",
+      "pic": "https://e.im5i.com/2021/08/05/vIfUX.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.novipnoad.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "cokemv(Web)",
+      "pic": "https://e.im5i.com/2021/08/05/vIb7Q.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://cokemv.me/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "素白白(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/va0nv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.subaibai.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "奈飞星(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vaYmM.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://nfxhd.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "爱迪(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vaxcX.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://aidi.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "低端影视(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJIjW.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://ddrk.me/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "555电影(Web)",
+      "pic": "https://e.im5i.com/2021/08/04/vlztv.md.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
+      "webUrl": "https://www.555dy3.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "秋霞电影(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJ79p.md.jpg",
+      "ads": "weizhenwx,5588196_1622486217",
+      "webUrl": "https://www.7xiady.cc/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "XijingTv(Web)",
+      "pic": "https://e.im5i.com/2021/08/03/vJvw0.jpg",
+      "ads": "onenews",
+      "webUrl": "http://xijing.tv/movie/index",
+      "webOpen": true,
+      "click": true
+    }
+  ]
+}
