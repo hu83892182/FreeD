@@ -19,7 +19,7 @@
     {
       "name": "Live",
       "pic": "https://m1.im5i.com/2022/08/01/UCI7QT.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hu83892182/ziyuanheji/tv/live.m3u",
+      "webUrl": "https://iptv-org.github.io/iptv/languages/cmn.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
